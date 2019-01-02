@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/AnkushDhingra32900893/Asp.Net%20Core%20Sample/_apis/build/status/AnkushDhingra.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/AnkushDhingra32900893/Asp.Net%20Core%20Sample/_build/latest?definitionId=2?branchName=master)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
